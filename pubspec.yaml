@@ -1,0 +1,56 @@
+name: home_analog_clock
+description: "A analog clock for deaktop."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  window_manager: ^0.4.2
+  restart_app: ^1.3.2
+  restartfromos: ^0.0.3
+  shared_preferences: ^2.3.2
+  package_info_plus: ^8.1.1
+  intl: ^0.19.0
+  flutter_localizations:
+    sdk: flutter
+  process_run: ^1.2.2
+  ffi: ^2.1.3
+  provider: ^6.1.2
+  path: ^1.9.0
+  rename: ^3.0.2
+  flutter_single_instance: ^0.0.1
+  win32: ^5.9.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Relogio/fundoroxo.png
+    - assets/Relogio/fundovermelho.png
+    - assets/Relogio/fundolaranja.png
+    - assets/Relogio/fundoazul.png
+    - assets/Relogio/fundoamarelo.png
+    - assets/Relogio/fundoverde.png
+    - assets/Relogio/fundoverdemarte.png
+    - assets/Relogio/fundorosa.png
+    - always_on_top.dll
+
+  fonts:
+    - family: CustomFont
+      fonts:
+        - asset: assets/Relogio/fontes/Handjet-SemiBold.ttf
+
+flutter_icons:
+windows: true
+image_path: "assets/Icon/icon home analog clock.png"
