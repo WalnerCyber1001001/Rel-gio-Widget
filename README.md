@@ -14,23 +14,17 @@ Um wiget de relógio pra Windows
 
 Funções:
 
-Sobrepor outros programas
-
-Desativar em apps fullscreen
-
-Iniciar o programa com o sistema
-         
-Alterar formato das horas 12 ou 24
-        
-Ativar transparência
-         
-Alterar cores
-        
-Alterar entre bordas quadradas ou arredondadas
-         
-Alterar entre relógio quadrado ou redondo
-         
-Esconder ou mostrar a área de arrasto de janela do Windows
+<ul>
+  <li>Sobrepor outros programas</li>
+  <li>Desativar em apps fullscreen</li>
+  <li>Iniciar o programa com o sistema</li>
+  <li>Alterar formato das horas 12 ou 24</li>
+  <li>Ativar transparência</li>
+  <li>Alterar cores</li>
+  <li>Alterar entre bordas quadradas ou arredondadas</li>
+  <li>Alterar entre relógio quadrado ou redondo</li>
+  <li>Esconder ou mostrar a área de arrasto de janela do Windows</li>
+</ul>
 
 <div style="margin-top: 40px;">
   <img src="imagem.png" alt="" width="150">
